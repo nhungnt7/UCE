@@ -1,4 +1,4 @@
-# ISWD
+# UCE
 Uncertainty-Aware Encoder (Findings of EMNLP 2021)
 
 This repo holds the code for our Uncertainty-Aware Encoder, UCE, described in our Findings of EMNLP 2021 paper: "[An Uncertainty-Aware Encoder for Aspect Detection
